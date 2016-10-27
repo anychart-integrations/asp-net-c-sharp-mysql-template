@@ -5,12 +5,11 @@ ASP.NET C# basic template
 This example shows how to use Anychart library with the C# programming language using ASP.NET and MySQL database.
 
 ## Running
-
-To use this sample you must have .net framework installed, Visual Studio 2015 or higher, MySQL database and MySQL Connector/NET - ADO.NET driver for MySQL.
- To check your installations, please, use Windows Control Panel -> Programs and features.
+This example uses .NET framework 4.6.1, ASP.NET 4.0.30319, ASP.NET MVC 5.2, Visual Studio 2015 Community, MySQL 5.6 and MySQL Connector/NET 6.9.9.0 - ADO.NET driver for MySQL. 
+To check your installations, please, use Windows Control Panel -> Programs and features.
 If you miss some installations, please, visit:<br />
 https://dev.mysql.com/downloads/installer/ and http://dev.mysql.com/doc/refman/5.7/en/installing.html to install MySQL<br />
-https://www.visualstudio.com/downloads/ to install Visual Studio and .net framework <br />
+https://www.visualstudio.com/downloads/ to install Visual Studio, .NET framework and ASP.NET <br />
 https://dev.mysql.com/downloads/connector/net/6.9.html to install MySQL Connector/NET<br />
 
 To start this example run commands listed below.
@@ -57,7 +56,7 @@ AspNetCSharpMysqlTemplate/
 
 ## Technologies
 Language - [C#](https://msdn.microsoft.com/en-us/library/ms228593.aspx)<br />
-Web framework - [Symfony](https://www.asp.net)<br />
+Web framework - [ASP.NET](https://www.asp.net)<br />
 Database Mapping [Entity Framework](https://www.asp.net/entity-framework)<br />
 HTML Tepmlate - [Razor](https://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
