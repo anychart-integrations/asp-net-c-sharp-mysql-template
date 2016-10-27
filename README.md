@@ -44,7 +44,7 @@ AspNetCSharpMysqlTemplate/
 		style.css				# main css file
     Models/
 		fruit.cs				# Entity framework model for MySQL
-		FruitDBContext			# DB data provider
+		FruitDBContext.cs		# DB data provider
 	Views/
 		Chart/
 			Index.cshtml		# html template
