@@ -1,5 +1,5 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
-PHP basic template
+ASP.NET C# basic template
 =========================
 
 This example shows how to use Anychart library with the C# programming language using ASP.NET and MySQL database.
@@ -31,6 +31,7 @@ Open project in Visual Studio using AspNetCSharpMysqlTemplate.sln solution file
 
 Run application using Run button or press F5
 
+If you have some problems with MySQL connection, ensure that MySql.Data.Entity.EF6 in References has correct path to MySql.Data.Entity.EF6.dll
 
 ## Workspace
 Your workspace should look like:
@@ -68,4 +69,4 @@ Database - [MySQL](https://www.mysql.com/)<br />
 * [Technical Support](https://anychart.com/support)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/php-symfony-mysql/blob/master/LICENSE).
+[© AnyChart.com - JavaScript charts](http://www.anychart.com). Released under the [Apache 2.0 License](https://github.com/anychart-integrations/asp-net-c-sharp-mysql-template/blob/master/LICENSE).
