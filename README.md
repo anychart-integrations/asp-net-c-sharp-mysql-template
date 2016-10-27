@@ -57,7 +57,7 @@ AspNetCSharpMysqlTemplate/
 ## Technologies
 Language - [C#](https://msdn.microsoft.com/en-us/library/ms228593.aspx)<br />
 Web framework - [ASP.NET](https://www.asp.net)<br />
-Database Mapping [Entity Framework](https://www.asp.net/entity-framework)<br />
+Database Mapping -[Entity Framework](https://www.asp.net/entity-framework)<br />
 HTML Tepmlate - [Razor](https://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
 
