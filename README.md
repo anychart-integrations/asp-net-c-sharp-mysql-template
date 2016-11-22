@@ -21,7 +21,7 @@ $ git clone git@github.com:anychart-integrations/asp-net-c-sharp-mysql-template.
 
 Open cmd console in 'asp-net-c-sharp-mysql-template' folder and set up MySQL database, use -u -p flags to provide username and password:
 ```
-$  "[YOUR_PATH_TO_MYSQL]\bin\mysql.exe" < database_backup.sql
+$  "[YOUR_PATH_TO_MYSQL]\bin\mysql.exe" -u[USER_NAME] -p < database_backup.sql
 e.g:  
 $  "C:\Program Files\MySQL\MySQL Server 5.6\bin\mysql.exe" -uroot -p < database_backup.sql
 ```
